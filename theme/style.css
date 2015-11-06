@@ -5,3 +5,10 @@
        url('http://cactb.ir/anform/fonts/BNazanin.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 body p div{ font-family: "BNazanin"; }
+.nav .navbar {
+  left:0;
+  float:none;
+  vertical-align: top;
+  margin:0;
+  width:100;
+}
