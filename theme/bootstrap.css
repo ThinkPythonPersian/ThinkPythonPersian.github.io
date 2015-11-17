@@ -2843,10 +2843,10 @@ input[type="submit"].btn.btn-mini {
 }
 .navbar .nav {
   position: relative;
-  left: 0;
-  display: block;
-  float: left;
-  margin: 0 10px 0 0;
+  float: right;
+  margin: auto;
+  margin-right: 0px;
+  width: 50%;
 }
 .navbar .nav.pull-right {
   float: right;

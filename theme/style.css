@@ -6,9 +6,7 @@
 }
 body p div{ font-family: "BNazanin"; }
 .nav .navbar {
-  left:0;
-  float:none;
-  vertical-align: top;
-  margin:0;
-  width:100;
+  float:right; !important;
+  margin:auto !important;
+  width:50% !important;
 }
