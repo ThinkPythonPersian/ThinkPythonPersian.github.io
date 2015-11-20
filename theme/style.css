@@ -1,12 +1,11 @@
 @font-face {
             font-family: "IranianSans";
-            src: url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.eot');
-            src: url('http://events.cactb.ir/2015/fonts/http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.eot?#') format('eot'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.ttf') format('truetype'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.woff') format('woff'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.otf') format('opentype'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.svg') format('svg');
+            src: url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.eot');
+            src: url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.eot?#') format('eot'),
+            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.ttf') format('truetype'),
+            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.woff') format('woff'),
+            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.otf') format('opentype'),
+            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.svg') format('svg');
             font-variant: normal;
             font-weight: normal;
             font-style: normal;}
-            
