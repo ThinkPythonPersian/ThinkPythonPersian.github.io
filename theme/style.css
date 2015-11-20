@@ -1,11 +1,11 @@
 @font-face {
             font-family: "IranianSans";
-            src: url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.eot');
-            src: url('http://events.cactb.ir/2015/fonts/http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.eot?#') format('eot'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.ttf') format('truetype'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.woff') format('woff'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.otf') format('opentype'),
-            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.svg') format('svg');
+            src: url('../fonts/IranianSans/IranianSans.eot');
+            src: url('../fonts/IranianSans/IranianSans.eot?#') format('eot'),
+            url('../fonts/IranianSans/IranianSans.ttf') format('truetype'),
+            url('../fonts/IranianSans/IranianSans.woff') format('woff'),
+            url('../IranianSans/IranianSans.otf') format('opentype'),
+            url('../fonts/IranianSans/IranianSans.svg') format('svg');
             font-variant: normal;
             font-weight: normal;
             font-style: normal;}
