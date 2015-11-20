@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'BNazanin';
-  src: url('http://cactb.ir/anform/fonts/BNazanin.eot?#') format('eot'),  /* IE6–8 */
-       url('http://cactb.ir/anform/fonts/BNazanin.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-       url('http://cactb.ir/anform/fonts/BNazanin.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
-}
-body p div{ font-family: "BNazanin"; }
-img [alt=ThinkPython]{
-  width: auto;
-  text-align: center;
-
-}
+            font-family: "IranianSans";
+            src: url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.eot');
+            src: url('http://events.cactb.ir/2015/fonts/http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.eot?#') format('eot'),
+            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.ttf') format('truetype'),
+            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.woff') format('woff'),
+            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.otf') format('opentype'),
+            url('http://events.cactb.ir/2015/fonts/IranianSans/IranianSans.svg') format('svg');
+            font-variant: normal;
+            font-weight: normal;
+            font-style: normal;}
+            
