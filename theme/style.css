@@ -4,8 +4,12 @@
             src: url('../fonts/IranianSans/IranianSans.eot?#') format('eot'),
             url('../fonts/IranianSans/IranianSans.ttf') format('truetype'),
             url('../fonts/IranianSans/IranianSans.woff') format('woff'),
-            url('../fonts/IranianSans/IranianSans.otf') format('opentype'),
+            url('../IranianSans/IranianSans.otf') format('opentype'),
             url('../fonts/IranianSans/IranianSans.svg') format('svg');
             font-variant: normal;
             font-weight: normal;
             font-style: normal;}
+
+p, h1, h2, h3, h4, h5, a, li {
+  font-family: "IranianSans";
+}
