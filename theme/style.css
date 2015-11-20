@@ -1,11 +1,11 @@
 @font-face {
             font-family: "IranianSans";
-            src: url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.eot');
-            src: url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.eot?#') format('eot'),
-            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.ttf') format('truetype'),
-            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.woff') format('woff'),
-            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.otf') format('opentype'),
-            url('http://thinkpythonpersian.github.io/fonts/IranianSans/IranianSans.svg') format('svg');
+            src: url('../fonts/IranianSans/IranianSans.eot');
+            src: url('../fonts/IranianSans/IranianSans.eot?#') format('eot'),
+            url('../fonts/IranianSans/IranianSans.ttf') format('truetype'),
+            url('../fonts/IranianSans/IranianSans.woff') format('woff'),
+            url('../fonts/IranianSans/IranianSans.otf') format('opentype'),
+            url('../fonts/IranianSans/IranianSans.svg') format('svg');
             font-variant: normal;
             font-weight: normal;
             font-style: normal;}
